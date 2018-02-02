@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindsorTest", "WindsorTest\WindsorTest.csproj", "{97CB73C8-808A-4BA0-87C6-E3CF2C3E04F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97CB73C8-808A-4BA0-87C6-E3CF2C3E04F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97CB73C8-808A-4BA0-87C6-E3CF2C3E04F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97CB73C8-808A-4BA0-87C6-E3CF2C3E04F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97CB73C8-808A-4BA0-87C6-E3CF2C3E04F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57AED5CB-C67C-4553-967A-B9D7301DB5B2}
+	EndGlobalSection
+EndGlobal
